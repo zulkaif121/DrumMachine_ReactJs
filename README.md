@@ -1,5 +1,4 @@
 # DrumMachine_ReactJs
-I created drumMachine using react for freecodecamp project
-Complete code for drummachine project on freecodecamp
+drumMachine using react for freecodecamp project
 React functional components were used along with hooks.
 
